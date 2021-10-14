@@ -1,0 +1,87 @@
+H1 { 
+	background-color: rgba(4, 139, 154) ;    
+	Font-size: 30px;
+	font family: Arial;
+	background-color: #474747;
+	padding: 5%;
+	margin: 0,1%;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+
+
+body {
+	background-color: #01787cff
+}
+body {
+	font-family: Arial;
+}
+
+
+
+img {
+	width: 150px;
+	imag: 50px;
+	padding: 0 400px; 
+	border-radius: 20%;
+	widht: 100px;
+	
+}	
+
+.container {
+	background-color: white; 
+	border-radius: 5px;
+	padding: 25px 35px;
+	box-shadow:  0px 15px 30px rgba(55, 55, 55, 0.3);
+	margin-top: 5px;
+	width: 900px; 
+    margin: 40px auto;
+    color:  white;
+
+}	
+
+.container h1 {
+	background-color: grey;
+	text-align: center;
+	border-radius: 0px;
+	padding: 17px 0px;
+	margin-top: 5px;
+	width: 900px; 
+    margin: 20px auto;
+    color: white;
+}	
+.container p {
+	color: black;
+	text-align: center;
+}	
+
+.container h2 {
+	text-align: center;
+	border-radius: 5px;
+	padding: 7px 0px;
+	box-shadow:  0px 10px 40px rgba(200, 2OO, 154, 0.3);
+	margin-top: 5px;
+	width: 900px; 
+    margin: 20px auto;
+    color: black;
+}	
+
+
+.container ul {
+	color:  black;
+	list-style: none;
+	text-align: center;
+	text-decoration: none;
+}	
+
+.container i {
+	color:  black;
+	
+}	
+
+
+.container1 {
+	border-radius: 100px;
+	background-color: whitesmoke;
+	border: 1px solid orange;
+}	
